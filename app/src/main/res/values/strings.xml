@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppliMobileTheoEscobar</string>
+    <string name="activity_main_button_edit">Edit</string>
+    <string name="activity_main_textView_name">Name</string>
+    <string name="nom">Name</string>
+    <string name="edit_name">Edit</string>
+    <string name="activity_form_button_validate">Validate</string>
 </resources>

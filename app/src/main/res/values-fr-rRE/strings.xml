@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppliMobileTheoEscobar</string>
+    <string name="activity_main_button_edit">Edition</string>
+    <string name="activity_main_textView_name">Nom</string>
+    <string name="edit_name">Editer</string>
+    <string name="nom">Nom</string>
+    <string name="activity_form_button_validate">Valider</string>
+</resources>
